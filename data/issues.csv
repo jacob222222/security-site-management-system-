@@ -1,0 +1,6 @@
+ticket_id,date_opened,location,issue,status,assigned_to,date_closed
+001,2025-05-01,Warehouse A,Camera feed offline,Resolved,Engineer A,2025-05-03
+002,2025-05-02,Office B,Access card reader not working,In Progress,Engineer B,
+003,2025-05-04,Store C,DVR not recording,Open,,
+004,2025-05-05,Data Center D,Alarm panel unresponsive,Resolved,Engineer C,2025-05-06
+005,2025-05-06,Warehouse A,No power to badge reader,Open,,
